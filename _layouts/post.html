@@ -40,10 +40,7 @@ layout: page
     {% include related.html %}
 {% endif %}
 
-{% if site.show-author %}
-    {% include author.html %}
-{% endif %}
+{% include author.html %}
 
-{% if site.disqus.categories contains page.category %}
-    {% include disqus.html %}
-{% endif %}
+{% include disqus.html %}
+
