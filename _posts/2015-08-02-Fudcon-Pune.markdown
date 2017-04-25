@@ -51,7 +51,7 @@ To be honest, he looked intimidating and serious to me first. But those 2 hours 
 At Fudpub i met Truong, my first impression was OMG!!! There is a chinese person in the audience. Even i know that FOSS and Fedora is neutral ground to bring us all together - i was a bit hesitent to talk to him and my first question before even introducing was “are you chinese ...”? To my surprise he said, NO i am
 Vietnamise! We both laughed when he said that, and we had a great time together. Izhar joined us and all of us had great fun at the fud pub. The food was good and the people were cheerful. I had a great time bowling with Jens Peterson; we both had good number of strikes but he won :D
 
-![fudcon-pune](https://github.com/chokden/chokden.github.io/blob/master/assets/images/posts/fudcon-pune/fudcon-pune.jpg)
+![fudcon-pune]({{site.url}}assets/images/posts/fudcon-pune/fudcon-pune.jpg)
 <figcaption class="caption">Photo by Kushal Das</figcaption>
 
 ## Day 3
