@@ -91,11 +91,14 @@ show-author: true
 
 # do you want some animations?
 animation: true
+sass:
+    sass_dir: _sass
+    style: :compressed
 
 gems:
+  - jemoji
   - jekyll-seo-tag
   - jekyll-gist
 
 jekyll-mentions:
         base_url: http://tenzinchokden.com
-
