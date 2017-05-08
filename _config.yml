@@ -99,6 +99,7 @@ gems:
   - jemoji
   - jekyll-seo-tag
   - jekyll-gist
+  - jekyll-sitemap
 
 jekyll-mentions:
         base_url: http://tenzinchokden.com
