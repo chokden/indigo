@@ -12,9 +12,9 @@ Hi, my name is Tenzin Chokden. I am a security researcher and currently working 
 </p>
 <p>
 I am a Fedora Ambassador and project contributor. 
-I belive open-source and buddhism share the same belief, that is we all are interdependent and working together to make better a world and better software.  
+I believe open-source and buddhism share the same belief, that is we all are interdependent and working together to make better a world and better software.  
 
-Weekends  are for good  books and FIFA, Yes! I am an avid FIFA gamer. 
+Weekends  are for good  books and FIFA, Yes! I am an avid FIFA gamer. <a href="https://www.twitter.com/tnzchok">Follow@Chokden</a>
 </p>
 
 
