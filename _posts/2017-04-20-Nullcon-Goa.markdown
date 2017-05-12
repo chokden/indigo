@@ -1,7 +1,6 @@
 ---
 title: "Event report: Nullcon 2017"
 layout: post
-tag: Fedora, Fudcon
 blog: true
 author: tenzinchokden
 tag:
