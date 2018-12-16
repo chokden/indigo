@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: http://www.tenzinchokden.com 
+url: chokden.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -103,4 +103,4 @@ gems:
   - jekyll-feed
 
 jekyll-mentions:
-        base_url: http://tenzinchokden.com
+        base_url: chokden.github.io
